@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 🤖 I'm a mechatronics engineering student
 
-🔭 I’m currently working on industrial robotics researhing
+🔭 I’m currently working on cobots control
 
 🌱 I’m currently learning ROS2, PLC, UR20, PM and Android.
