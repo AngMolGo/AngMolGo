@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤖 I'm a mechatronics engineering student
+🔭 I’m currently working on industrial robotics researhing
+🌱 I’m currently learning ROS2, PLC, UR20, PM and Android.
