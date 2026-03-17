@@ -15,8 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤖 I'm a mechatronics engineering student
+🤖 I'm a Mechatronics Engineering
 
-🔭 I’m currently working on cobots control
+🔭 I’m interested on Robotics, System Integration and Cloud Infrastructure.
 
-🌱 I’m currently learning ROS2, PLC, UR20, PM and Android.
+🌱 I’m currently learning Industrial Netowrking (IACS), AWS, Docker/Kubernetes and n8n.
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,vscode,bash,git,github)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,grafana,nginx)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[![My Skills](https://skillicons.dev/icons?i=ros,raspberrypi,arduino)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngMolGo&layout=compact&hide=html,assembly)
