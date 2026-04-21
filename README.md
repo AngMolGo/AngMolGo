@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,grafana,nginx)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<!--[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,grafana,nginx)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)-->
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![My Skills](https://skillicons.dev/icons?i=ros,raspberrypi,arduino)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
